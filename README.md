@@ -12,9 +12,17 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+# 🔝 My GitHub Contribution Stats
+## Repos Created by {username}
+
 <!-- BEGIN:created_repos -->
 <!-- END:created_repos -->
+
+## Repos {username} Contributed To
+
+<!-- BEGIN:contributed -->
+<!-- END:contributed -->
+
 ---
 ![](https://komarev.com/ghpvc/?username=ert11er)
 
