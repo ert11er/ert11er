@@ -13,7 +13,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 🔝 My GitHub Contribution Stats
-## Repos Created by {username}
+## Repos Created by ert11er
 
 <!-- BEGIN:created_repos -->
 | No.   | Name | Language | Stars | Forks | Last Update |
@@ -21,7 +21,7 @@
 | Total |      |          | 0     | 0     |             |
 <!-- END:created_repos -->
 
-## Repos {username} Contributed To
+## Repos ert11er Contributed To
 
 <!-- BEGIN:contributed -->
 | No.   | Name                                                                | Stars  | First PR                                                          | Last PR                                                           | PR Count                                                                        |
