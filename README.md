@@ -13,8 +13,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ert11er&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+<!-- BEGIN:created_repos -->
+<!-- END:created_repos -->
 ---
 ![](https://komarev.com/ghpvc/?username=ert11er)
 
