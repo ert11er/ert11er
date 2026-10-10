@@ -16,9 +16,10 @@
 ## Repos Created by ert11er
 
 <!-- BEGIN:created_repos -->
-| No.   | Name | Language | Stars | Forks | Last Update |
-|-------|------|----------|-------|-------|-------------|
-| Total |      |          | 0     | 0     |             |
+| No.   | Name                                                | Language   | Stars | Forks | Last Update |
+|-------|-----------------------------------------------------|------------|-------|-------|-------------|
+| 1     | [m3u-tonguc](https://github.com/ert11er/m3u-tonguc) | JavaScript | 0     | 1     | 2026-10-09  |
+| Total |                                                     |            | 0     | 1     |             |
 <!-- END:created_repos -->
 
 ## Repos ert11er Contributed To
@@ -26,8 +27,8 @@
 <!-- BEGIN:contributed -->
 | No.   | Name                                                                | Stars  | First PR                                                          | Last PR                                                           | PR Count                                                                        |
 |-------|---------------------------------------------------------------------|--------|-------------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| 1     | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 139227 | [2026-06-26](https://github.com/ripienaar/free-for-dev/pull/4512) | [2026-06-26](https://github.com/ripienaar/free-for-dev/pull/4512) | [1](https://github.com/ripienaar/free-for-dev/pulls?q=is%3Apr+author%3Aert11er) |
-| 2     | [recloudstream/cs-repos](https://github.com/recloudstream/cs-repos) | 533    | [2026-06-24](https://github.com/recloudstream/cs-repos/pull/97)   | [2026-06-24](https://github.com/recloudstream/cs-repos/pull/97)   | [1](https://github.com/recloudstream/cs-repos/pulls?q=is%3Apr+author%3Aert11er) |
+| 1     | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 139278 | [2026-06-26](https://github.com/ripienaar/free-for-dev/pull/4512) | [2026-06-26](https://github.com/ripienaar/free-for-dev/pull/4512) | [1](https://github.com/ripienaar/free-for-dev/pulls?q=is%3Apr+author%3Aert11er) |
+| 2     | [recloudstream/cs-repos](https://github.com/recloudstream/cs-repos) | 535    | [2026-06-24](https://github.com/recloudstream/cs-repos/pull/97)   | [2026-06-24](https://github.com/recloudstream/cs-repos/pull/97)   | [1](https://github.com/recloudstream/cs-repos/pulls?q=is%3Apr+author%3Aert11er) |
 | 3     | [pog5/nealpasswordgame](https://github.com/pog5/nealpasswordgame)   | 51     | [2025-11-14](https://github.com/pog5/nealpasswordgame/pull/9)     | [2025-11-14](https://github.com/pog5/nealpasswordgame/pull/9)     | [1](https://github.com/pog5/nealpasswordgame/pulls?q=is%3Apr+author%3Aert11er)  |
 | Total |                                                                     |        |                                                                   |                                                                   | 3                                                                               |
 <!-- END:contributed -->
